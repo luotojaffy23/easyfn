@@ -1,0 +1,15 @@
+[
+    { "name": "Renegade Raider", "item_type": "outfit" },
+    { "name": "Floss", "item_type": "emote" },
+    { "name": "Pickaxe", "item_type": "pickaxe" },
+    { "name": "Back Bling", "item_type": "backbling" },
+    { "name": "Glider", "item_type": "glider" },
+    { "name": "Wrap", "item_type": "wrap" },
+    { "name": "Loading Screen", "item_type": "loading" },
+    { "name": "Music", "item_type": "music" },
+    { "name": "Contrail", "item_type": "contrail" },
+    { "name": "Spray", "item_type": "spray" },
+    { "name": "Emoji", "item_type": "emoji" },
+    { "name": "Banner", "item_type": "banner" },
+    { "name": "Bundle", "item_type": "bundle" }
+]
